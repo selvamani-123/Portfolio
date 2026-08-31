@@ -1,0 +1,62 @@
+[
+  {
+    "id": "haz-1",
+    "name": "Silk Board Junction High-Crash Zone",
+    "lat": 12.9176,
+    "lng": 77.6234,
+    "riskLevel": "CRITICAL",
+    "riskScore": 92,
+    "type": "ACCIDENT_HOTSPOT",
+    "description": "Heavy vehicle blind spots and frequent two-wheeler collisions.",
+    "incidentsPastYear": 38,
+    "recommendedSpeed": 25
+  },
+  {
+    "id": "haz-2",
+    "name": "Sony World Signal Waterlogging & Deep Potholes",
+    "lat": 12.9352,
+    "lng": 77.6245,
+    "riskLevel": "HIGH",
+    "riskScore": 78,
+    "type": "ROAD_HAZARD",
+    "description": "Submerged craters and skidding risk during evening hours.",
+    "incidentsPastYear": 21,
+    "recommendedSpeed": 20
+  },
+  {
+    "id": "haz-3",
+    "name": "Ejipura Inner Ring Low Lighting & Construction",
+    "lat": 12.9421,
+    "lng": 77.6312,
+    "riskLevel": "HIGH",
+    "riskScore": 74,
+    "type": "DARK_ZONE",
+    "description": "Poor visibility after 8:00 PM and narrow detour barricades.",
+    "incidentsPastYear": 19,
+    "recommendedSpeed": 30
+  },
+  {
+    "id": "haz-4",
+    "name": "Koramangala 80ft Road Sudden U-Turn Junction",
+    "lat": 12.9388,
+    "lng": 77.6189,
+    "riskLevel": "MODERATE",
+    "riskScore": 55,
+    "type": "BLIND_INTERSECTION",
+    "description": "Unsignaled crossing with high pedestrian and delivery traffic.",
+    "incidentsPastYear": 14,
+    "recommendedSpeed": 35
+  },
+  {
+    "id": "haz-5",
+    "name": "Madiwala Market Congestion & Stray Cattle",
+    "lat": 12.9224,
+    "lng": 77.6198,
+    "riskLevel": "MODERATE",
+    "riskScore": 60,
+    "type": "OBSTRUCTION",
+    "description": "Sudden lane blockage and wet road conditions near market.",
+    "incidentsPastYear": 16,
+    "recommendedSpeed": 25
+  }
+]
