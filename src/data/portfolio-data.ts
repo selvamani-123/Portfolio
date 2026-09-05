@@ -64,7 +64,7 @@ export const PERSONAL_INFO = {
   status: "Open to Internship Opportunities",
   email: "selva00611@gmail.com",
   phone: "+91 93600 16116",
-  resumePath: "/resume.pdf",
+  resumePath: "./resume.pdf",
   bio: `Aspiring Software Engineer and B.E. Computer Science Engineering student with a strong foundation in Java, Python, RESTful APIs, databases, and full-stack web development. Experienced in building scalable web applications using Java Servlets, JSP, FastAPI, MongoDB, and MySQL through academic projects. Skilled in backend development, API integration, database design, and problem-solving, with a passion for developing efficient software solutions and continuously learning modern technologies.`,
   coreCompetencies: [
     "Backend Development",
