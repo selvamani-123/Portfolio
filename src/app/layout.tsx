@@ -50,6 +50,11 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "Selvamani",
+  },
 };
 
 export default function RootLayout({
