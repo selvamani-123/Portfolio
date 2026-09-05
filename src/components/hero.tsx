@@ -5,6 +5,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { ArrowRight, Download } from "lucide-react";
 import { PERSONAL_INFO } from "@/data/portfolio-data";
+import profileImg from "../../public/profile.jpg";
 
 export default function Hero() {
   return (
@@ -81,7 +82,7 @@ export default function Hero() {
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-2 border-accent/40 shadow-[0_0_50px_rgba(45,212,191,0.2)] bg-[#0a0a0a] p-2 hover:scale-[1.02] hover:shadow-[0_0_70px_rgba(45,212,191,0.3)] transition-all duration-500">
                 <div className="relative w-full h-full rounded-full overflow-hidden">
                   <Image
-                    src="/profile.jpg"
+                    src={profileImg}
                     alt="Selvamani M"
                     fill
                     sizes="(max-width: 768px) 256px, 320px"
